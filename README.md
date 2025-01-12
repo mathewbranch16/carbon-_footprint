@@ -1,2 +1,2 @@
 # Carbon-_Footprint
-This  a cabonfootprint calvulator app
+This  a carbon footprint calculator app
